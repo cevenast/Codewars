@@ -6,6 +6,7 @@
 //    "Hello World" -> "HHeelllloo  WWoorrlldd"
 //    "1234!_ "     -> "11223344!!__  "
 
+
 // Answer
 
 function doubleChar(str) {
