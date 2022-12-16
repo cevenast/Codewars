@@ -14,8 +14,8 @@ Don't change the order of the elements that are left.
 
 // P : An array of numbers. Can also be an empty string.
 // R: An array of numbers, without the first appereance of the minimum number of the original array. An empty string if original is empty.
-// E:  [5,3,2,1,4] => [5,3,2,4]
-//     [2,2,1,2,1] => [2,2,2,1]
+// E:    [5,3,2,1,4] => [5,3,2,4]
+//       [2,2,1,2,1] => [2,2,2,1]
 //       [] => []
 
 // Answer
