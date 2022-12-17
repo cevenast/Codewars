@@ -18,6 +18,7 @@ Don't change the order of the elements that are left.
 //       [2,2,1,2,1] => [2,2,2,1]
 //       [] => []
 
+
 // Answer
 
 function removeSmallest(numbers) {
